@@ -1,0 +1,396 @@
+{
+ "url": "file:///tmp/zip-apartamentos-don-victor-salamanca/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué apartamentos tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay 5 apartamentos de una sola estancia en la calle Hovohambre, de 42 a 52 m², con ventana a la calle y cama de matrimonio de 150 x 190 cm."
+    },
+    {
+     "q": "¿Cómo se entra al apartamento?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Con códigos que te entregan antes de tu llegada, así al llegar no pierdes tiempo en el check-in."
+    },
+    {
+     "q": "¿A qué hora es la entrada y la salida?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "La entrada es a las 12:00 y la salida a las 12:00; esas horas pueden cambiarse si lo pides y la llegada de nuevos clientes lo permite."
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, todos los apartamentos tienen wifi de alta velocidad sin límite de descarga ni extras."
+    },
+    {
+     "q": "¿Tienen cocina?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, la cocina está integrada en la estancia, con encimera de piedra, frigorífico combi, vitrocerámica de dos fuegos y campana extractora."
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Según sus condiciones, no se admiten mascotas salvo autorización expresa y por escrito en el momento de la reserva; pregúntalo antes de rese"
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Según su web (leída el 30/10/2026), el precio desde es de 40 € a 70 € por noche según el apartamento; confírmalo al reservar."
+    },
+    {
+     "q": "¿Dónde están los apartamentos?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "En la calle Hovohambre 11, 37001 Salamanca, a solo 170 m de la Plaza Mayor."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes buscar disponibilidad y reservar en su web (botón Reservar) o llamar o escribir por WhatsApp al +34 672 51 82 28. Este asistente no c"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes buscar disponibilidad y reservar en su web (botón Reservar) o llamar o escribir por WhatsApp al +34 672 51 82 28. Este asistente no c"
+    },
+    {
+     "q": "¿Cuál es la política de cancelación?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "La reserva se confirma al abonar el 100 %; si la anulas dentro de los 7 días antes de la llegada, se pierde la cantidad abonada."
+    },
+    {
+     "q": "¿Qué incluye la estancia?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Incluye ropa de cama y baño (sábanas y toallas), agua y electricidad, electrodomésticos, menaje y la limpieza antes de tu entrada; durante l"
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 672 51 82 28 · reservas@donvictor.es."
+    },
+    {
+     "q": "¿Hay gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 672 51 82 28 · reservas@donvictor.es."
+    }
+   ],
+   "chips": [
+    "¿Qué apartamentos tenéis?",
+    "¿Cómo se entra al apartamento?",
+    "¿Cuánto cuesta la noche?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which apartments do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 5 studio apartments on Calle Hovohambre, from 42 to 52 m², with a window onto the street and a 150 x 190 cm double bed."
+    },
+    {
+     "q": "How do I get into the apartment?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "With codes sent to you before you arrive, so you lose no time on check-in."
+    },
+    {
+     "q": "What are the check-in and check-out times?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Check-in is at 12:00 and check-out at 12:00; the times can be changed on request if new arrivals allow it."
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, every apartment has high-speed wifi with no download limit or extra charges."
+    },
+    {
+     "q": "Is there a kitchen?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, the kitchen is integrated into the room, with a stone worktop, fridge-freezer, two-ring ceramic hob and extractor hood."
+    },
+    {
+     "q": "Do you accept pets?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "According to their terms, pets are not allowed unless expressly authorised in writing at the time of booking; ask before you book."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "According to their website (read on 30/10/2026), prices start from 40 € to 70 € per night depending on the apartment; confirm it when you bo"
+    },
+    {
+     "q": "Where are the apartments?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "At Calle Hovohambre 11, 37001 Salamanca, just 170 m from the Plaza Mayor."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can check availability and book on their website (Book button) or call or WhatsApp +34 672 51 82 28. This assistant does not confirm ava"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can check availability and book on their website (Book button) or call or WhatsApp +34 672 51 82 28. This assistant does not confirm ava"
+    },
+    {
+     "q": "What is the cancellation policy?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "The booking is confirmed once 100 % is paid; cancelling within 7 days before arrival means losing the amount paid."
+    },
+    {
+     "q": "What is included in the stay?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Bed and bath linen (sheets and towels), water and electricity, appliances, kitchenware and cleaning before arrival are included; during the "
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 672 51 82 28 · reservas@donvictor.es."
+    },
+    {
+     "q": "Is there a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 672 51 82 28 · reservas@donvictor.es."
+    }
+   ],
+   "chips": [
+    "Which apartments do you have?",
+    "How do I get into the apartment?",
+    "How much is a night?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "stat1"
+   ],
+   "chat": [
+    {
+     "q": "Quels appartements avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a 5 studios rue Hovohambre, de 42 à 52 m², avec fenêtre sur rue et lit double de 150 x 190 cm."
+    },
+    {
+     "q": "Comment entre-t-on dans l'appartement ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Avec des codes remis avant votre arrivée, pour ne pas perdre de temps au check-in."
+    },
+    {
+     "q": "Quels sont les horaires d’arrivée et de départ ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "L’arrivée est à 12:00 et le départ à 12:00 ; ces horaires peuvent être modifiés sur demande si l’arrivée d’autres clients le permet."
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, tous les appartements ont le wifi haut débit sans limite de téléchargement ni supplément."
+    },
+    {
+     "q": "Y a-t-il une cuisine ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, la cuisine est intégrée à la pièce, avec plan en pierre, réfrigérateur combiné, plaque vitrocéramique deux feux et hotte."
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Selon leurs conditions, les animaux ne sont pas admis sauf autorisation expresse et écrite au moment de la réservation ; demandez avant de r"
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Selon leur site (consulté le 30/10/2026), les prix vont à partir de 40 € à 70 € par nuit selon l’appartement ; confirmez-le lors de la réser"
+    },
+    {
+     "q": "Où se trouvent les appartements ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Calle Hovohambre 11, 37001 Salamanque, à seulement 170 m de la Plaza Mayor."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur site (bouton Réserver) ou appeler ou écrire sur WhatsApp au +34 672 51 82 28. Cet"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur site (bouton Réserver) ou appeler ou écrire sur WhatsApp au +34 672 51 82 28. Cet"
+    },
+    {
+     "q": "Quelle est la politique d'annulation ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "La réservation est confirmée après paiement de 100 % ; une annulation dans les 7 jours avant l’arrivée entraîne la perte du montant versé."
+    },
+    {
+     "q": "Qu’est-ce qui est inclus dans le séjour ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sont inclus le linge de lit et de bain (draps et serviettes), l’eau et l’électricité, l’électroménager, la vaisselle et le ménage avant l’ar"
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 672 51 82 28 · reservas@donvictor.es."
+    },
+    {
+     "q": "Y a-t-il une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 672 51 82 28 · reservas@donvictor.es."
+    }
+   ],
+   "chips": [
+    "Quels appartements avez-vous ?",
+    "Comment entre-t-on dans l'appartement ?",
+    "Combien coûte la nuit ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Apartments gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt 5 Einraum-Apartments in der Calle Hovohambre, 42 bis 52 m², mit Fenster zur Straße und Doppelbett 150 x 190 cm."
+    },
+    {
+     "q": "Wie komme ich ins Apartment?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Mit Codes, die Sie vor der Anreise erhalten, damit Sie beim Check-in keine Zeit verlieren."
+    },
+    {
+     "q": "Wann sind Check-in und Check-out?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Check-in ist um 12:00 Uhr und Check-out um 12:00 Uhr; auf Anfrage sind andere Zeiten möglich, wenn neue Anreisen es zulassen."
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, alle Apartments haben Highspeed-WLAN ohne Download-Limit und ohne Aufpreis."
+    },
+    {
+     "q": "Gibt es eine Küche?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja, die Küche ist in den Raum integriert, mit Steinarbeitsplatte, Kühl-Gefrier-Kombination, zweiflammigem Glaskeramikkochfeld und Dunstabzug"
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Laut Bedingungen sind Haustiere nur mit ausdrücklicher schriftlicher Genehmigung bei der Buchung erlaubt; fragen Sie vor der Buchung."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Laut Website (abgerufen am 30/10/2026) liegen die Preise ab 40 € bis 70 € pro Nacht je nach Apartment; bitte bei der Buchung bestätigen."
+    },
+    {
+     "q": "Wo befinden sich die Apartments?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "In der Calle Hovohambre 11, 37001 Salamanca, nur 170 m von der Plaza Mayor."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können auf der Website (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen oder unter +34 672 51 82 28 anrufen oder per WhatsApp s"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können auf der Website (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen oder unter +34 672 51 82 28 anrufen oder per WhatsApp s"
+    },
+    {
+     "q": "Wie sind die Stornobedingungen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Die Buchung ist mit Zahlung von 100 % bestätigt; bei Stornierung innerhalb von 7 Tagen vor Anreise verfällt der gezahlte Betrag."
+    },
+    {
+     "q": "Was ist im Aufenthalt inbegriffen?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Inbegriffen sind Bett- und Badwäsche (Laken und Handtücher), Wasser und Strom, Haushaltsgeräte, Geschirr und die Reinigung vor der Anreise; "
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 672 51 82 28 · reservas@donvictor.es."
+    },
+    {
+     "q": "Gibt es ein Fitnessstudio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 672 51 82 28 · reservas@donvictor.es."
+    }
+   ],
+   "chips": [
+    "Welche Apartments gibt es?",
+    "Wie komme ich ins Apartment?",
+    "Was kostet eine Nacht?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

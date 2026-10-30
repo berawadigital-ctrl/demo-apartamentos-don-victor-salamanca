@@ -1,0 +1,531 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-apartamentos-don-victor-salamanca",
+ "source_site": "https://www.donvictor.es/",
+ "source_read_at": "2026-10-30T09:22:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "apartamentos",
+   "keys": {
+    "es": [
+     "que apartamentos",
+     "tipos de apartamento",
+     "cuantos apartamentos",
+     "metros",
+     "tamaño",
+     "cama"
+    ],
+    "en": [
+     "which apartments",
+     "apartment types",
+     "how many apartments",
+     "square",
+     "size",
+     "bed"
+    ],
+    "fr": [
+     "quels appartements",
+     "types d",
+     "combien d",
+     "m2",
+     "taille",
+     "lit"
+    ],
+    "de": [
+     "welche apartments",
+     "apartmenttypen",
+     "wie viele apartments",
+     "quadratmeter",
+     "grosse",
+     "bett"
+    ]
+   },
+   "a": {
+    "es": "Hay 5 apartamentos de una sola estancia en la calle Hovohambre, de 42 a 52 m², con ventana a la calle y cama de matrimonio de 150 x 190 cm.",
+    "en": "There are 5 studio apartments on Calle Hovohambre, from 42 to 52 m², with a window onto the street and a 150 x 190 cm double bed.",
+    "fr": "Il y a 5 studios rue Hovohambre, de 42 à 52 m², avec fenêtre sur rue et lit double de 150 x 190 cm.",
+    "de": "Es gibt 5 Einraum-Apartments in der Calle Hovohambre, 42 bis 52 m², mit Fenster zur Straße und Doppelbett 150 x 190 cm."
+   },
+   "sources": [
+    {
+     "url": "https://www.donvictor.es/",
+     "quote": "DON VICTOR TE OFRECE 5 APARTAMENTOS SITUADOS EN LA CALLE HOVOHAMBRE"
+    },
+    {
+     "url": "https://www.donvictor.es/",
+     "quote": "Tamaño: 42m²"
+    },
+    {
+     "url": "https://www.donvictor.es/",
+     "quote": "Tamaño: 52m²"
+    },
+    {
+     "url": "https://www.donvictor.es/",
+     "quote": "Tipo de cama: Matrimonio de 150 x 190 cm"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "acceso",
+   "keys": {
+    "es": [
+     "como se entra",
+     "acceso",
+     "llave",
+     "llaves",
+     "codigo",
+     "entrar"
+    ],
+    "en": [
+     "get into",
+     "access",
+     "key",
+     "keys",
+     "code",
+     "enter"
+    ],
+    "fr": [
+     "entre-t-on",
+     "acces",
+     "cle",
+     "cles",
+     "code",
+     "entrer"
+    ],
+    "de": [
+     "wie komme ich",
+     "zugang",
+     "schlussel",
+     "code",
+     "hinein"
+    ]
+   },
+   "a": {
+    "es": "Con códigos que te entregan antes de tu llegada, así al llegar no pierdes tiempo en el check-in.",
+    "en": "With codes sent to you before you arrive, so you lose no time on check-in.",
+    "fr": "Avec des codes remis avant votre arrivée, pour ne pas perdre de temps au check-in.",
+    "de": "Mit Codes, die Sie vor der Anreise erhalten, damit Sie beim Check-in keine Zeit verlieren."
+   },
+   "sources": [
+    {
+     "url": "https://www.donvictor.es/servicios_incluidos/",
+     "quote": "Entrada por códigos entregados antes de vuestra llegada por lo que al llegar no perderéis tiempo en el check in."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "horario",
+   "keys": {
+    "es": [
+     "entrada y la salida",
+     "check-in",
+     "check-out",
+     "checkout",
+     "salida",
+     "llegada",
+     "horario"
+    ],
+    "en": [
+     "check-in",
+     "check-out",
+     "checkout",
+     "arrival",
+     "departure",
+     "times"
+    ],
+    "fr": [
+     "arrivee",
+     "depart",
+     "horaires",
+     "check-in",
+     "check-out"
+    ],
+    "de": [
+     "check-in",
+     "check-out",
+     "anreise",
+     "abreise",
+     "uhrzeit"
+    ]
+   },
+   "a": {
+    "es": "La entrada es a las 12:00 y la salida a las 12:00; esas horas pueden cambiarse si lo pides y la llegada de nuevos clientes lo permite.",
+    "en": "Check-in is at 12:00 and check-out at 12:00; the times can be changed on request if new arrivals allow it.",
+    "fr": "L’arrivée est à 12:00 et le départ à 12:00 ; ces horaires peuvent être modifiés sur demande si l’arrivée d’autres clients le permet.",
+    "de": "Check-in ist um 12:00 Uhr und Check-out um 12:00 Uhr; auf Anfrage sind andere Zeiten möglich, wenn neue Anreisen es zulassen."
+   },
+   "sources": [
+    {
+     "url": "https://www.donvictor.es/terms-conditions/",
+     "quote": "La hora de entrada será a las 12:00 y la de salida a las 12:00."
+    },
+    {
+     "url": "https://www.donvictor.es/terms-conditions/",
+     "quote": "estas horas pueden ser modificadas, previa petición por parte del cliente y si la llegada de nuevos clientes lo permite"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "wifi",
+   "keys": {
+    "es": [
+     "wifi",
+     "internet"
+    ],
+    "en": [
+     "wifi",
+     "internet"
+    ],
+    "fr": [
+     "wifi",
+     "internet"
+    ],
+    "de": [
+     "wlan",
+     "wifi",
+     "internet"
+    ]
+   },
+   "a": {
+    "es": "Sí, todos los apartamentos tienen wifi de alta velocidad sin límite de descarga ni extras.",
+    "en": "Yes, every apartment has high-speed wifi with no download limit or extra charges.",
+    "fr": "Oui, tous les appartements ont le wifi haut débit sans limite de téléchargement ni supplément.",
+    "de": "Ja, alle Apartments haben Highspeed-WLAN ohne Download-Limit und ohne Aufpreis."
+   },
+   "sources": [
+    {
+     "url": "https://www.donvictor.es/servicios_incluidos/",
+     "quote": "Todos los apartamentos incluyen WiFi de alta velocidad sin limite de descarga ni extras de ningún tipo."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "cocina",
+   "keys": {
+    "es": [
+     "cocina",
+     "cocinar",
+     "nevera",
+     "frigorifico",
+     "vitroceramica"
+    ],
+    "en": [
+     "kitchen",
+     "cook",
+     "fridge",
+     "hob"
+    ],
+    "fr": [
+     "cuisine",
+     "cuisiner",
+     "frigo",
+     "plaque"
+    ],
+    "de": [
+     "kuche",
+     "kochen",
+     "kuhlschrank",
+     "kochfeld"
+    ]
+   },
+   "a": {
+    "es": "Sí, la cocina está integrada en la estancia, con encimera de piedra, frigorífico combi, vitrocerámica de dos fuegos y campana extractora.",
+    "en": "Yes, the kitchen is integrated into the room, with a stone worktop, fridge-freezer, two-ring ceramic hob and extractor hood.",
+    "fr": "Oui, la cuisine est intégrée à la pièce, avec plan en pierre, réfrigérateur combiné, plaque vitrocéramique deux feux et hotte.",
+    "de": "Ja, die Küche ist in den Raum integriert, mit Steinarbeitsplatte, Kühl-Gefrier-Kombination, zweiflammigem Glaskeramikkochfeld und Dunstabzug."
+   },
+   "sources": [
+    {
+     "url": "https://www.donvictor.es/accommodation/apartamento-5-para-2-personas-de-52m2/",
+     "quote": "está equipada con una encimera de piedra, un frigorífico combi, una vitrocerámica de dos fuegos y una campana extractora"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "gato",
+     "animal"
+    ],
+    "en": [
+     "pet",
+     "dog",
+     "cat",
+     "animal"
+    ],
+    "fr": [
+     "animaux",
+     "animal",
+     "chien",
+     "chat"
+    ],
+    "de": [
+     "haustier",
+     "hund",
+     "katze",
+     "tier"
+    ]
+   },
+   "a": {
+    "es": "Según sus condiciones, no se admiten mascotas salvo autorización expresa y por escrito en el momento de la reserva; pregúntalo antes de reservar.",
+    "en": "According to their terms, pets are not allowed unless expressly authorised in writing at the time of booking; ask before you book.",
+    "fr": "Selon leurs conditions, les animaux ne sont pas admis sauf autorisation expresse et écrite au moment de la réservation ; demandez avant de réserver.",
+    "de": "Laut Bedingungen sind Haustiere nur mit ausdrücklicher schriftlicher Genehmigung bei der Buchung erlaubt; fragen Sie vor der Buchung."
+   },
+   "sources": [
+    {
+     "url": "https://www.donvictor.es/terms-conditions/",
+     "quote": "No se admiten mascotas: perros, gatos, pájaros, ni otros animales de compañía, en el interior de la casa por razones de higiene, salvo autorización expresa y por escrito en el momento de la reserva"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "precio",
+   "keys": {
+    "es": [
+     "precio",
+     "cuanto cuesta",
+     "cuesta",
+     "tarifa"
+    ],
+    "en": [
+     "price",
+     "how much",
+     "cost",
+     "rate"
+    ],
+    "fr": [
+     "prix",
+     "combien",
+     "coute",
+     "tarif"
+    ],
+    "de": [
+     "preis",
+     "was kostet",
+     "kosten",
+     "tarif"
+    ]
+   },
+   "a": {
+    "es": "Según su web (leída el 30/10/2026), el precio desde es de 40 € a 70 € por noche según el apartamento; confírmalo al reservar.",
+    "en": "According to their website (read on 30/10/2026), prices start from 40 € to 70 € per night depending on the apartment; confirm it when you book.",
+    "fr": "Selon leur site (consulté le 30/10/2026), les prix vont à partir de 40 € à 70 € par nuit selon l’appartement ; confirmez-le lors de la réservation.",
+    "de": "Laut Website (abgerufen am 30/10/2026) liegen die Preise ab 40 € bis 70 € pro Nacht je nach Apartment; bitte bei der Buchung bestätigen."
+   },
+   "sources": [
+    {
+     "url": "https://www.donvictor.es/",
+     "quote": "Precio desde: 40 € por noche"
+    },
+    {
+     "url": "https://www.donvictor.es/",
+     "quote": "Precio desde: 70 € por noche"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "como llegar",
+     "plaza mayor"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "get there",
+     "plaza mayor"
+    ],
+    "fr": [
+     "ou se trouv",
+     "adresse",
+     "emplacement",
+     "acceder",
+     "plaza mayor"
+    ],
+    "de": [
+     "wo befind",
+     "adresse",
+     "lage",
+     "anfahrt",
+     "plaza mayor"
+    ]
+   },
+   "a": {
+    "es": "En la calle Hovohambre 11, 37001 Salamanca, a solo 170 m de la Plaza Mayor.",
+    "en": "At Calle Hovohambre 11, 37001 Salamanca, just 170 m from the Plaza Mayor.",
+    "fr": "Calle Hovohambre 11, 37001 Salamanque, à seulement 170 m de la Plaza Mayor.",
+    "de": "In der Calle Hovohambre 11, 37001 Salamanca, nur 170 m von der Plaza Mayor."
+   },
+   "sources": [
+    {
+     "url": "https://www.donvictor.es/",
+     "quote": "Dirección Hovohambre 11, 37001 Salamanca."
+    },
+    {
+     "url": "https://www.donvictor.es/",
+     "quote": "SÓLO A 170m DE LA PLAZA MAYOR"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "whatsapp"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm",
+     "whatsapp"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "whatsapp"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig",
+     "whatsapp"
+    ]
+   },
+   "a": {
+    "es": "Puedes buscar disponibilidad y reservar en su web (botón Reservar) o llamar o escribir por WhatsApp al +34 672 51 82 28. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can check availability and book on their website (Book button) or call or WhatsApp +34 672 51 82 28. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez vérifier la disponibilité et réserver sur leur site (bouton Réserver) ou appeler ou écrire sur WhatsApp au +34 672 51 82 28. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können auf der Website (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen oder unter +34 672 51 82 28 anrufen oder per WhatsApp schreiben. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.donvictor.es/contact-us/",
+     "quote": "Teléfono y Whatsapp +34672518228 +34 672 51 82 28"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K10",
+   "topic": "cancelacion",
+   "keys": {
+    "es": [
+     "cancel",
+     "anular",
+     "anulacion"
+    ],
+    "en": [
+     "cancel"
+    ],
+    "fr": [
+     "annul"
+    ],
+    "de": [
+     "storn",
+     "absag"
+    ]
+   },
+   "a": {
+    "es": "La reserva se confirma al abonar el 100 %; si la anulas dentro de los 7 días antes de la llegada, se pierde la cantidad abonada.",
+    "en": "The booking is confirmed once 100 % is paid; cancelling within 7 days before arrival means losing the amount paid.",
+    "fr": "La réservation est confirmée après paiement de 100 % ; une annulation dans les 7 jours avant l’arrivée entraîne la perte du montant versé.",
+    "de": "Die Buchung ist mit Zahlung von 100 % bestätigt; bei Stornierung innerhalb von 7 Tagen vor Anreise verfällt der gezahlte Betrag."
+   },
+   "sources": [
+    {
+     "url": "https://www.donvictor.es/terms-conditions/",
+     "quote": "Las reservas estarán confirmadas únicamente si se ha abonado el 100 % de reserva correspondiente"
+    },
+    {
+     "url": "https://www.donvictor.es/terms-conditions/",
+     "quote": "La anulación de la reserva dentro de los 7 días antes de la fecha de ocupación, dará lugar a la pérdida de la cantidad abonada."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "incluido",
+   "keys": {
+    "es": [
+     "que incluye",
+     "incluido",
+     "sabanas",
+     "toallas",
+     "ropa de cama",
+     "limpieza"
+    ],
+    "en": [
+     "included",
+     "towels",
+     "linen",
+     "sheets",
+     "cleaning"
+    ],
+    "fr": [
+     "inclus",
+     "serviettes",
+     "draps",
+     "linge",
+     "menage"
+    ],
+    "de": [
+     "inbegriffen",
+     "handtucher",
+     "bettwasche",
+     "reinigung"
+    ]
+   },
+   "a": {
+    "es": "Incluye ropa de cama y baño (sábanas y toallas), agua y electricidad, electrodomésticos, menaje y la limpieza antes de tu entrada; durante la estancia la limpieza corre de tu cuenta.",
+    "en": "Bed and bath linen (sheets and towels), water and electricity, appliances, kitchenware and cleaning before arrival are included; during the stay cleaning is up to you.",
+    "fr": "Sont inclus le linge de lit et de bain (draps et serviettes), l’eau et l’électricité, l’électroménager, la vaisselle et le ménage avant l’arrivée ; pendant le séjour, le ménage est à votre charge.",
+    "de": "Inbegriffen sind Bett- und Badwäsche (Laken und Handtücher), Wasser und Strom, Haushaltsgeräte, Geschirr und die Reinigung vor der Anreise; während des Aufenthalts reinigen Sie selbst."
+   },
+   "sources": [
+    {
+     "url": "https://www.donvictor.es/terms-conditions/",
+     "quote": "La renta incluye: ropa de cama y baño (sabanas y toallas), consumos de agua corriente y electricidad"
+    },
+    {
+     "url": "https://www.donvictor.es/terms-conditions/",
+     "quote": "y la limpieza antes de su entrada. Durante la estancia la limpieza corre a cargo del Cliente-Inquilino-Reservante."
+    }
+   ],
+   "cta": false
+  }
+ ]
+}

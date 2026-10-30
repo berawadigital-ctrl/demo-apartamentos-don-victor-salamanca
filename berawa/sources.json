@@ -1,0 +1,53 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.donvictor.es/",
+ "read_at": "2026-10-30T09:22:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.donvictor.es/",
+   "sha256": "e7278d41b028dfbefc5d649399b18d11e364319e50cca7a096a9e503597e534f",
+   "chars": 6596
+  },
+  {
+   "url": "https://www.donvictor.es/accommodation/apartamento-5-para-2-personas-de-52m2/",
+   "sha256": "94b217bddcab673681df9ff92970b60a296a007420dd5382cd02b23c16b7a7c0",
+   "chars": 3819
+  },
+  {
+   "url": "https://www.donvictor.es/contact-us/",
+   "sha256": "6937cc3951dbc74555865413f17b524f8b138f1a307249e73678a6d9b824a98c",
+   "chars": 961
+  },
+  {
+   "url": "https://www.donvictor.es/servicios_incluidos/",
+   "sha256": "c4237df24fd7dc7cd02e7bce2df7658fbf1c2a04556058c7e8132cf28218d299",
+   "chars": 2190
+  },
+  {
+   "url": "https://www.donvictor.es/terms-conditions/",
+   "sha256": "ac981a27372060520d009cfb5ccf63fb67647ef47885653f232d7eaa63a4b623",
+   "chars": 4583
+  }
+ ],
+ "other_pages_read": [
+  "https://www.donvictor.es/accommodation-category/double/",
+  "https://www.donvictor.es/accommodation-facility/bano-privado/",
+  "https://www.donvictor.es/accommodation-facility/cabina-de-hidromasaje/",
+  "https://www.donvictor.es/accommodation-facility/calefaccion/",
+  "https://www.donvictor.es/accommodation-facility/cocina-integrada-completa/",
+  "https://www.donvictor.es/accommodation-facility/free-wi-fi/",
+  "https://www.donvictor.es/accommodation-facility/frigorifico-combi/",
+  "https://www.donvictor.es/accommodation-facility/iluminacion-led-dual-regulable/",
+  "https://www.donvictor.es/accommodation-facility/ventanas-climalit-silence/",
+  "https://www.donvictor.es/accommodation-facility/vitroceramica/",
+  "https://www.donvictor.es/accommodation/apartamento-1-para-2-personas-de-45m2/",
+  "https://www.donvictor.es/accommodation/apartamento-2-para-2-personas-de-45m2/",
+  "https://www.donvictor.es/accommodation/apartamento-4-para-2-personas-de-50m2/",
+  "https://www.donvictor.es/accommodation/apartamento-para-2-personas-de-42m2/",
+  "https://www.donvictor.es/apartamentos/",
+  "https://www.donvictor.es/aviso-legal/",
+  "https://www.donvictor.es/mi-cuenta/",
+  "https://www.donvictor.es/politica-privacidad/"
+ ]
+}
